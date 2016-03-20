@@ -1,0 +1,41 @@
+Effective Agile Requirements
+
+Shu-ha-ri 
+ Shu - do the practice (think Karate Kid)
+ Ha  - understand the principles
+ Ri  - master, understands the values, and continuous learning
+
+Definition of "Ready" - don't use as a weapon against the PO
+
+Business Value ideas ...
+
+ Assemble the fellowship of the product (or the ring wraiths)
+
+ 1. Play MoSCoW - Must have = 13, Should have = 5, Could have = 2, Won't have = 0
+    add "00" to the end to make them more value-y
+
+ 2. Use a pre-definied Fibonacci sequence (ala http://blog.accentient.com/measuring-the-business-value-of-a-pbi )
+
+    1 - make existing users a bit happier
+    2 - make existing users raving fans
+    3 - get new users/customers
+    5 - sell more sponsorships/products from our site
+    8 - made a promise to an important stakeholder/VP or director person/key client
+   13 - aligns with some corporate or strategic objective/mission
+   21 - governance, compliance, stay out of jail
+
+   add "00" to make it more value-y
+
+ 3. give all of your stakeholders $100 virtual bucks and ask them to spend it
+
+   done, tally up the spends and order the business value on that
+
+In the latest Scrum guide, we say "Refine/Refining" the backlog not "Groom/Grooming" - google this (without children in the room)
+
+Find a Scrum Master that can do math and figure the run rate of the team (example: 2-week sprint, $40k)
+
+ keep the notebook in the pocket and ask these questions ...
+
+ 1. can this wait until the next sprint planning? Yes = no waste
+ 2. can this wait until we're done with the current PBI? Yes = a little waste, might miss our forecast
+ 3. waste x number of days x $4k = that's on top of the $ deliver

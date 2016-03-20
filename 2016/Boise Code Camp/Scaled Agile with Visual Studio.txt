@@ -1,0 +1,13 @@
+Product Backlog breakdown
+
+1. Epic        - things that executives, SLT, etc. care about
+               - might take multiple releases/months to achieve
+   (a.k.a. initiative, goal, theme, objective, etc.)
+
+2. Feature     - things program managers, stakeholders care about
+               - might take multiple sprints to achieve
+
+3. User Story  - things that by definition can be done <=1 sprint
+
+
+Note: all of the above are just Product Backlog Items (PBIs) in Scrum
