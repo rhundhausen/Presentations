@@ -1,0 +1,18 @@
+Bookmarks
+-------------------------------------------------------------------------
+http://www.meetup.com/Agile-Treasure-Valley/events/226574267
+http://less.works
+http://larmanslaws.org (should redirect to http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)
+
+Notes
+-------------------------------------------------------------------------
+If you have dependencies between items in the Product Backlog
+
+  people, technology, code, domain, external (UAT)
+
+Three approaches to reducing/removing the above
+
+ 1. Change your work
+ 2. Change your teams (feature teams)
+ 3. Change your architecture
+
