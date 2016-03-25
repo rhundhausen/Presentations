@@ -3,6 +3,7 @@ Bookmarks
 http://www.meetup.com/Agile-Treasure-Valley/events/226574267
 http://less.works
 http://larmanslaws.org (should redirect to http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)
+https://en.wikipedia.org/wiki/T-shaped_skills
 
 Notes
 -------------------------------------------------------------------------
