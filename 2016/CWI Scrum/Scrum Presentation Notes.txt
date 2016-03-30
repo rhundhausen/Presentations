@@ -1,0 +1,70 @@
+Scrum Presentation - March 29 2016 
+----------------------------------
+----------------------------------
+
+Notes
+----------------------------------
+
+ROI = Return on Investment
+ R = Return = Business Value - what we're going to get
+ I = Investment = Effort
+
+
+Bookmarks
+----------------------------------
+UserVoice.com - customer engagement tools
+https://scrumguide.uservoice.com
+
+Team projects
+https://psd02.visualstudio.com/DefaultCollection/Batman
+https://psd02.visualstudio.com/DefaultCollection/AfroStarz
+https://psd02.visualstudio.com/DefaultCollection/Blindside
+https://psd02.visualstudio.com/DefaultCollection/JusticLeague
+
+Activities
+----------------------------------
+
+----------------------------------
+Activity 1
+----------------------------------
+1. Add 10 more items to your backlog
+2. Elect a Product Owner
+3. Your Product Owner should order the list
+     (via drag and drop)
+
+4. Break
+
+Startup at 10:25am
+
+----------------------------------
+Activity 2
+----------------------------------
+Use MoSCoW technique to provide business value
+to each item in the backlog:
+
+Must-have   - 1300
+Should-have - 500
+Could-have  - 200
+Won't have  - 0
+
+----------------------------------
+Activity 3
+----------------------------------
+Pick a "medium sized" item and call it a 5 effort.
+
+Use planning poker cards (1,2,3,5,8,13,21) to size
+the remaining items in your backlog.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
