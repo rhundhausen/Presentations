@@ -1,0 +1,7 @@
+## Definition of "Done" ##
+
+* All code written in pairs
+* Code compiles without errors or warnings
+* All tests pass
+* Acceptance criteria met
+* Product Owner likes what we developed

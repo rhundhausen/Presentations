@@ -1,0 +1,8 @@
+## Definition of "Ready" ##
+
+* Interested
+* Description
+* Business value
+* Acceptance criteria
+* Estimated/sized
+* Ready

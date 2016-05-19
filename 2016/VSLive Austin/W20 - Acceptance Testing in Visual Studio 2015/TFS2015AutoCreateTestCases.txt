@@ -1,0 +1,2 @@
+TFS 2015 Tester Power Tool-Auto Create Test Cases from Acceptance Criteria
+https://visualstudiogallery.msdn.microsoft.com/29f95b0c-51c9-40b4-ad6f-7e2d5960668c
