@@ -1,0 +1,30 @@
+Teams ...
+
+  * Collocated
+  * Cross functional
+  * T-Shaped people (specialists w/ a generalist attitude)
+  * Long-lived
+  * Form, Storm, Norm, Peform, *Swarm*
+  * Cross component (feature team, persona team)
+
+Bookmarks
+
+Conway's Law (https://en.wikipedia.org/wiki/Conway%27s_law)
+T-Shaped People (https://en.wikipedia.org/wiki/T-shaped_skills)
+
+Hey Richard, do you recommend our team/org try Scrum?
+
+  (well, let me ask you some questions ...)
+
+  1. Is your work complex?
+
+   (there is more you DON't know about "what" is being asked,
+      and "how" to deliver it)
+
+  2. Can you work as a team?
+
+  3. Do you primarily do planned work?
+
+  4. Are you building an increment? 
+
+  Yes to 3 or 4 of the above, Scrum; 1-2 maybe not
