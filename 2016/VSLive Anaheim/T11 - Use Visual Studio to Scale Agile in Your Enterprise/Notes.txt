@@ -1,0 +1,48 @@
+---------------------------
+"The three knobs"
+---------------------------
+
+To minize dependencies at scale, there are three knobs you can turn:
+
+1. Change your teams (e.g. component/layer teams > feature teams)
+2. Change your work (refine to break up, split, decide which team will deliver)
+3. Change your architecture
+
+Each of the above will have a varying "cost" and varying "benefit"
+
+---------------------------
+Different Backlog Levels
+---------------------------
+
+Do you have different types of stakeholders looking at your product backlog?
+
+(Big) Epics - executives care about, years to deliver, mulitiple releases (might take a year+ to be done)
+(Med) Features - stakeholders care about, several sprints to deliver
+(Small) User stories - teams develop/deliver with 1 sprint or less
+--
+Tasks/Tests - not really a backlog, but the "plan" created by the DevTeam to deliver that sprint's forecast
+
+---------------------------
+Bookmarks
+---------------------------
+
+Descaling Case Study
+http://www.scrumcasestudies.com/fbi/
+
+The Secret Startup That Saved the Worst Website in America
+http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/
+
+Larman's Laws of Organizational Behavior
+http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior
+
+The Phoenix Project (book)
+https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+
+Multitasking Damages Your Brain And Career, New Studies Suggest
+http://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest
+
+Use team fields instead of area paths to support teams
+https://msdn.microsoft.com/library/dn144940.aspx
+
+Sample two week Sprint calendar
+https://www.flickr.com/photos/rhundhausen/29874050302/in/album-72157671108735534/
