@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="VS_LaunchDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VS_LaunchDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.Resources>
+            <SolidColorBrush x:Key="RedBrush" Color="Red"/>
+            <DataTemplate x:Key="ListItemTemplate" x:DataType="local:Model">
+                <TextBlock Text="{x:Bind Value}"/>
+            </DataTemplate>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Height="40" Background="#33000000">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="UserPanel" x:DeferLoadStrategy="Lazy">
+                    <TextBlock Text="Shawn Kendrot" FontSize="25" VerticalAlignment="Center" Margin="12,0"/>
+                    <Image />
+                </Grid>
+                <Button Content="Login" Grid.Column="1" Click="Button_Click"/>
+            </Grid>
+        </Border>
+        <controls:MasterDetailsView x:Name="List" 
+                  Grid.Row="1"
+                  ItemTemplate="{StaticResource ListItemTemplate}" >
+            <controls:MasterDetailsView.DetailsTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Value}" FontSize="30"/>
+                </DataTemplate>
+            </controls:MasterDetailsView.DetailsTemplate>
+        </controls:MasterDetailsView>
+    </Grid>
+</Page>
