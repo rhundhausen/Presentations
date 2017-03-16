@@ -1,0 +1,55 @@
+Bookmarks
+
+Shuhari
+https://en.wikipedia.org/wiki/Shuhari
+
+The Scrum Guide
+http://www.scrumguides.org
+
+User Voice (for Visual Studio)
+https://visualstudio.uservoice.com/forums/121579-visual-studio-ide
+
+The MoSCoW method (prioritization technique)
+https://en.wikipedia.org/wiki/MoSCoW_method
+
+Buy a Feature method
+http://www.uxforthemasses.com/buy-the-feature
+
+Measuring the Business Value of a PBI
+http://blog.accentient.com/measuring-the-business-value-of-a-pbi/
+
+T-Shaped Skills
+https://en.wikipedia.org/wiki/T-shaped_skills
+
+Extension: Split
+https://marketplace.visualstudio.com/items?itemName=blueprint.vsts-extension-split-work
+
+Extension: Calendar
+https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-calendar
+
+Extension: Countdown widget
+https://marketplace.visualstudio.com/items?itemName=ms-devlabs.CountdownWidget
+
+Extension: Delivery Plans
+https://marketplace.visualstudio.com/items?itemName=ms.vss-plans
+
+Extension: SpecMap
+https://marketplace.visualstudio.com/items?itemName=techtalk.specmap
+
+Descaling Case Study
+http://www.scrumcasestudies.com/fbi/
+
+The Secret Startup That Saved the Worst Website in America
+http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/
+
+Larman's Laws of Organizational Behavior
+http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior
+
+The Phoenix Project (book)
+https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+
+Multitasking Damages Your Brain And Career, New Studies Suggest
+http://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest
+
+Use team fields instead of area paths to support teams
+https://msdn.microsoft.com/library/dn144940.aspx

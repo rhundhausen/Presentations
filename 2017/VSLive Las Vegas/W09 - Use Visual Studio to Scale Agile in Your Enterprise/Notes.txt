@@ -1,0 +1,21 @@
+---------------------------
+Different Backlog Levels
+---------------------------
+
+Do you have different types of stakeholders looking at your product backlog?
+
+(Big) Epics - executives care about, years to deliver, mulitiple releases (might take a year+ to be done); example: "Native iOS app"
+(Med) Features - stakeholders care about, several sprints to deliver; example: "Online payments"
+(Small) User stories - teams develop/deliver with 1 sprint or less; example: 
+--
+Tasks/Tests - not really a backlog, but the "plan" created by the DevTeam to deliver that sprint's forecast
+
+---------------------------
+Ideally, teams should be ...
+---------------------------
+
+* Self-organizing
+* Cross-functional
+* Cross-component (a.k.a. "a feature team")
+* Collocated
+* Made up of T-shaped people
