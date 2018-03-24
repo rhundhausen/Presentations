@@ -1,5 +1,5 @@
-## Boise Code Camp 2018 | 24 March 2018
-#### Professional Scrum
+## Professional Scrum
+### Boise Code Camp 2018 | 24 March 2018
 ##### Journey to Ready (and back again) ...
 1. A PBI can begin life with only a simple title ("Twitter feed on our homepage")
 2. Next, add a short user story description ...
