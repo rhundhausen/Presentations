@@ -1,5 +1,5 @@
 ### W22 - Use Visual Studio to Scale Agile in Your Enterprise
-VSLive Austin| 2 May 2018
+VSLive Austin | 2 May 2018
 
 Bookmarks
 
