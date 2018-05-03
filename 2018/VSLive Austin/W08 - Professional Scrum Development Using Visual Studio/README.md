@@ -1,5 +1,5 @@
 ### W08 - Professional Scrum Development Using Visual Studio
-VSLive Austin| 2 May 2018
+VSLive Austin | 2 May 2018
 
 Bookmarks
 
