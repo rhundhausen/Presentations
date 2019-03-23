@@ -1,0 +1,3 @@
+## Boise Code Camp 2019 | 23 March 2018
+#### Introduction to Azure DevOps Services
+Microsoft Azure DevOps Services, formerly named Visual Studio Team Services, provides development collaboration tools for all size teams working on all kinds of software projects. In this session we will introduce, demo, and explore each of the five integrated services: Boards, Test Plans, Repos, Pipelines, and Artifacts.
